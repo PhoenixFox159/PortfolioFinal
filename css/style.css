@@ -333,8 +333,11 @@ body {
 @media (max-width: 970px) {
 
     .project-text {
-        
         padding-left: 28px;
+    }
+
+    .contacts-text {
+        padding-left: 25px;
     }
 }
 
